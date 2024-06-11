@@ -22,3 +22,7 @@ spring:
       enable: false
 service:
   port: 8080
+
+springdoc:
+  swagger-ui:
+    path: /swagger-ui
